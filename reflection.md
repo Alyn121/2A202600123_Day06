@@ -24,6 +24,5 @@ Sẽ xác định pain point rõ ràng hơn , đào sâu hơn vào vấn đề c
 ## 7. AI giúp gì / AI sai gì
 - **Giúp:** dùng GEMINI để làm api
     debug cho chunking và prompt
-- **Sai/mislead:** Claude gợi ý thêm feature "đặt lịch khám" vào chatbot —
-  nghe hay nhưng scope quá lớn cho hackathon. Suýt bị scope creep nếu không dừng lại.
+- **Sai/mislead:** điều hướng sai bài toán ban đầu , làm rộng quá
   Bài học: AI brainstorm tốt nhưng không biết giới hạn scope.
